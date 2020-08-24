@@ -1,5 +1,6 @@
 
 L.DistanceGrid = function (cellSize) {
+	// comment
 	this._cellSize = cellSize;
 	this._sqCellSize = cellSize * cellSize;
 	this._grid = {};
